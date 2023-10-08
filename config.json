@@ -1,0 +1,8 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "server_ip": "mc.hypixel.net",
+  "server_port": 25565,
+  "channel_id": "YOUR_CHANNEL_ID",
+  "online_emoji": "🟢",
+  "offline_emoji": "🔴"
+}
