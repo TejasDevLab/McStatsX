@@ -1,6 +1,6 @@
 # McStatsX Discord Bot
 
-![McStatsX Banner](https://example.com/banner.png) <!-- Add a banner image or logo for your project -->
+![McStatsX Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQknxyt4fPxwFhBO9sz0kAB3ugn3wbwMKBSbw&usqp=CAU) <!-- Add a banner image or logo for your project -->
 
 McStatsX is a versatile Discord bot designed to provide real-time Minecraft server status updates to your Discord community. Whether you run a gaming server or want to keep your friends informed, McStatsX has you covered.
 
